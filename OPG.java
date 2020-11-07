@@ -97,7 +97,6 @@ public class OPG {
                if(topnt==stack.size()-2) {
                    stack.pop();
                    stack.pop();
-                   stack.pop();
                    stack.push('E');
                    System.out.println("R");
                    j++;

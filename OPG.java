@@ -34,6 +34,7 @@ public class OPG {
     }
     public static void main(String[] args) {
        String msg=readbychar(args[0]);
+        System.out.println(msg);
        StringBuilder stringBuilder=new StringBuilder(msg);
        stringBuilder.append('#');
        stack.push('#');

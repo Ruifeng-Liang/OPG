@@ -1,10 +1,9 @@
-import javafx.scene.input.TouchPoint;
+
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Stack;
 
 /**
